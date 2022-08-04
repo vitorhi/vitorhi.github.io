@@ -2,9 +2,9 @@
 ## Portifólio
 ### Detector de falhas em circuitos impressos
 ![Amostra de dados síteticos utilizados](images/TCC_arduino.PNG)
-Esse trabalho foi realizado como TCC (trabalho de conclusão de curso) ao término da graduação em Eng. Elétrica na Poli-USP.
+Esse trabalho foi realizado como TCC (trabalho de conclusão de curso) em conjunto com os ex-alunos Lucas Ribeiro Ferreira Julio e Erik Kazuhiro Miyoshi ao término da graduação em Eng. Elétrica na Poli-USP.
 
-Ele teve como objetivo implementar um detector capaz de discernir falhas em placas de Arduinos Uno reais por meio de uma rede neural treinada por dados sintéticos gerados por meio de computação gráfica.
+Ele teve como objetivo implementar um detector capaz de discernir falhas em placas de Arduinos Uno reais por meio de uma rede neural treinada por imagens sintéticas gerados a partir de computação gráfica.
 
 Artigo disponível [aqui](https://drive.google.com/file/d/1tBcJRBBMM7IhPOpFVx2clE3JbR4QnoGn/view?usp=sharing)
 
