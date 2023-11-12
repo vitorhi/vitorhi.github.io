@@ -17,5 +17,5 @@ Artigo disponível [aqui](https://drive.google.com/file/d/1tBcJRBBMM7IhPOpFVx2cl
 O objetivo aqui foi criar um classificador de notícias falsas utilizando NLP a partir de notícias previamente rotuladas no dataset [Fake.Br Corpus](https://github.com/roneysco/Fake.br-Corpus). A segunda etapa foi tornar o classificador público por meio de um site. Ambas as etapas do projeto podem ser exploradas abaixo:
 
 * Análise e implementação do modelo: [repositório](https://github.com/vitorhi/Detector-fake-news/blob/master/Analise/Detector_Fake_News.ipynb)
-* Detector de notícias falsas: [site](https://detector-noticia.herokuapp.com)
+* Detector de notícias falsas: [site](https://detector-de-fake-news.onrender.com/)
 ```
